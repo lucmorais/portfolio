@@ -3,3 +3,13 @@ body {
     background: linear-gradient(90deg,#93bf85 50%, #469536) no-repeat;
     font-family: 'Montserrat', sans-serif;
 }
+
+.cabecalho {
+    background: #d3d3d3;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.cor-personalizada {
+    background: #d3d3d3;
+}
