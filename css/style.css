@@ -18,6 +18,30 @@ body {
 
 a.nav-link {
     color: white;
+    font-size: 1.2em;
+    display: inline;
+    font-weight: normal;
+    padding-left: 0px;
+}
+
+a .progress {
+    height: 0.2em;
+    width: 23%;
+    margin-top: 0.3em;
+    background-color: #5cb85c
+}
+
+.nav-link i {
+    font-weight: 520;
+}
+
+a.nav-link:hover {
+    color: white;
+}
+
+a.nav-link:hover .progress {
+    width: 100%;
+    transition: width 0.3s;
 }
 
 .cor-personalizada{
@@ -62,7 +86,7 @@ footer .container .btn:hover {
     padding-bottom: 1.2em;
 }
 
-.alinhamento-texto{
+.alinhamento-texto {
     text-align: right;
 }
 
