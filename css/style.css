@@ -61,3 +61,24 @@ footer .container .btn:hover {
 .teste {
     border: 1px solid red;
 }
+
+small {
+    display: block;
+}
+
+main h4 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+main p {
+    float: right;
+}
+
+h4, p {
+    display: inline;
+}
+
+main ul .list-item {
+    padding-top: 1.2em;
+}
