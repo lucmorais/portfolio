@@ -62,12 +62,26 @@ footer .container .btn:hover {
     padding-bottom: 1.2em;
 }
 
+.alinhamento-texto{
+    text-align: right;
+}
+
 small {
     display: block;
 }
 
+main .col-lg-2 {
+    width: 5%;
+}
+
 span {
     padding-right: 0.6em;
+}
+
+main h6 {
+    font-weight: bold;
+    padding-top: 0.5em;
+    font-size: 0.8em;
 }
 
 main h4 {
