@@ -58,12 +58,16 @@ footer .container .btn:hover {
 	margin-top: 5px;
 }
 
-.teste {
-    border: 1px solid red;
+#atividades small {
+    padding-bottom: 1.2em;
 }
 
 small {
     display: block;
+}
+
+span {
+    padding-right: 0.6em;
 }
 
 main h4 {
