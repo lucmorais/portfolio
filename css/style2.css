@@ -54,3 +54,7 @@ main a .card {
     border-bottom: 1px solid #1abc9c;
     font-weight: bold;
 }
+
+@media screen and (max-width: 991px) {
+    
+}
