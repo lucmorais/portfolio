@@ -45,6 +45,10 @@ main h3 {
     margin-bottom: 30px;
 }
 
+header .nav-item{
+    height: 2.5em;
+}
+
 a.nav-link {
     color: #ecf0f1;
     font-size: 1.2em;
@@ -74,7 +78,8 @@ a.nav-link:hover {
 
 a.nav-link:hover .progress {
     width: 100%;
-    transition: width 0.3s;
+    padding-top: 5px;
+    transition: width 0.3s, padding-top 0.8s;
 }
 
 .cor-personalizada{
