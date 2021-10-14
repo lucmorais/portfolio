@@ -19,12 +19,14 @@ body {
     background: url(../imagens/fundo7.jpg);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
 .imagem {
     height: 150px;
     border-radius: 120px;
     border: 2px solid white;
+    filter: grayscale(0.5);
 }
 
 header h1 {
@@ -78,12 +80,13 @@ a.nav-link:hover {
 
 a.nav-link:hover .progress {
     width: 100%;
-    padding-top: 5px;
-    transition: width 0.3s, padding-top 0.8s;
+    margin-top: 7px;
+    transition: width 0.5s, margin-top 0.3s;
 }
 
 .cor-personalizada{
     background: #ecf0f1;
+
 }
 
 .meio {
