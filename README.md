@@ -49,6 +49,6 @@ Para visualizar este portfólio em sua máquina, siga os passos abaixo:
 
 ---
 
-## 📂 Estrutura de Arquivos
+## 🤝 Contribuições
 
-A estrutura do projeto está organizada da seguinte forma:
+Este é um projeto pessoal, mas sugestões e feedback são sempre bem-vindos.
