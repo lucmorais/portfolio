@@ -2,8 +2,6 @@
 
 Este repositório contém o código-fonte do meu portfólio pessoal e currículo online. O objetivo é apresentar minha trajetória profissional, minhas habilidades técnicas, formação acadêmica e projetos desenvolvidos.
 
-[Image of an elegant and structured web developer portfolio]
-
 ---
 
 ## ✨ Funcionalidades Principais
