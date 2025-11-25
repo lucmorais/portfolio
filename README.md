@@ -33,13 +33,12 @@ Para visualizar este portfólio em sua máquina, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/lucmorais/nome-do-seu-repositorio.git](https://github.com/lucmorais/nome-do-seu-repositorio.git)
+    git clone https://github.com/lucmorais/portifolio.git
     ```
-    *(**Observação:** Lembre-se de substituir `nome-do-seu-repositorio` pelo nome real do seu repositório no GitHub.)*
 
 2.  **Acesse o Diretório:**
     ```bash
-    cd nome-do-seu-repositorio
+    cd portifolio
     ```
 
 3.  **Abra o Arquivo:**
